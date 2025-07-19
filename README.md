@@ -96,15 +96,9 @@ mvn spring-boot:run
 
 ## 🧪 Sample Screenshots
 
-*(Add screenshots of your UI here)*
-
----
-
-## 🙋‍♀️ Author
-
-**Manvi Pentapati**
-* GitHub: [@manvip28](https://github.com/manvip28)
-* LinkedIn: [Your LinkedIn Profile]
+<img width="1079" height="680" alt="image" src="https://github.com/user-attachments/assets/5c391d6a-c97e-4586-82cd-0e545aa7a47b" />
+<img width="1079" height="684" alt="image" src="https://github.com/user-attachments/assets/8fd13af0-5dae-40a5-8db3-8e3c9cf9e3cb" />
+<img width="1079" height="613" alt="image" src="https://github.com/user-attachments/assets/fb52c745-ca42-4ceb-ae1a-f493822271b8" />
 
 ---
 
