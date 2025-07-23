@@ -20,6 +20,7 @@ A full-stack Hospital Management System built using **Java Spring Boot**, **MySQ
 - **Database:** MySQL
 - **Frontend:** HTML, CSS, Bootstrap, Vanilla JavaScript
 - **Build Tool:** Maven
+- **Testing:** Postman
 
 ---
 
